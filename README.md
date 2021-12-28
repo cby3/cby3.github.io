@@ -22,4 +22,4 @@
 <p style="color: aqua">coded:by CYBER-3</p>
 <code style="color: yellow">we dont forgive we dont forget</p>
 </center>
-<img src="images.png" alt="Image description">
+<img src="images.png" alt="Images ">
