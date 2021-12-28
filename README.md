@@ -1,4 +1,3 @@
-
 <doctype html>
 <html>
 <head>
@@ -6,7 +5,7 @@
 
 <center>
 
-<p style="color: red">     </p>
+<p style="color: red">  </p>
 <p style="color: red"></p>
 <p style="color: red">(#######$##$#)</p>
 <p style="color: yellow">(###############)</p>
@@ -23,3 +22,4 @@
 <p style="color: aqua">coded:by CYBER-3</p>
 <code style="color: yellow">we dont forgive we dont forget</p>
 </center>
+<img src="usman.jpg" />
