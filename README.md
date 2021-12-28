@@ -1,13 +1,10 @@
-# 84re.github.io
+#cyber-3
 <doctype html>
 <html>
 <head>
 <h1>hello</h1>
 <p style="color: yellow">(#$$$$$$$$$#)</p>
-<doctype html>
-<html>
-<head>
-<body>
+
 <center>
 
 <p style="color: red">     </p>
