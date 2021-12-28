@@ -1,8 +1,7 @@
-#cyber-3
+
 <doctype html>
 <html>
 <head>
-<h1>hello</h1>
 <p style="color: yellow">(#$$$$$$$$$#)</p>
 
 <center>
