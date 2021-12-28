@@ -16,10 +16,10 @@
 
 <p style="color: yellow">(#$$$$$$$$$#)</p>
 
-</center>
+</center><img src="image.png" alt="Image description">
 <body style="background-color: black">
 <center>
 <p style="color: aqua">coded:by CYBER-3</p>
 <code style="color: yellow">we dont forgive we dont forget</p>
 </center>
-<img src="images.jpg" />
+<img src="images.png" alt="Image description">
