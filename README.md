@@ -21,8 +21,7 @@
 <p style="color: aqua">---Always the oporsing ones are the legend---</p>
 <p style="color: red">-----------------------------------------</p>
 <a href="https://www.site24x7.com/ping-test.html" target="_blank"> CLICK HERE FOR ONLINE WEB TOOLS </a>
-</body>
-<h1 style="color: lime">V👖IRUSES</h1>
+
 <p style="color: red">ANDROID TOROJAN</p>
 
 <p style="color: red">WINDOWS Viruse disabler</p>
