@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
    <center>
 
-   
+   <img src="images/sdcard/vinary.png" 
      
      <code style="color: red">CODED BY MALITIOUS CODERS</code>
 <p style="color: aqua">---Always the oporsing ones are the legend---</p>
